@@ -9,3 +9,7 @@ requests
 pypdf
 PyPDF2
 pandas
+
+
+torch==2.0.1
+easyocr==1.6.2
