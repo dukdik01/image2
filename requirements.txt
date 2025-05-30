@@ -1,7 +1,5 @@
-streamlit
-tensorflow-cpu==2.11.0
+ streamlit
+tensorflow==2.9.3
 pillow
 matplotlib
 scikit-image
-
-
