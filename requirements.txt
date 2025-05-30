@@ -1,5 +1,11 @@
- streamlit
+streamlit
 tensorflow==2.7.0
 pillow
 matplotlib
 scikit-image
+transformers
+groq
+requests
+pypdf
+PyPDF2
+pandas
