@@ -1,7 +1,6 @@
-torch
-torchvision
-transformers
 streamlit
-tensorflow
+tensorflow-cpu==2.11.0
 pillow
 matplotlib
+scikit-image
+
