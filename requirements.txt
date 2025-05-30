@@ -1,12 +1,7 @@
 streamlit
-pillow
-matplotlib
-scikit-image
 transformers
 groq
 requests
-pypdf  
+pypdf
+PyPDF2
 pandas
-tensorflow==2.7.0 
-torch==2.0.1+cpu
-easyocr==1.6.2
